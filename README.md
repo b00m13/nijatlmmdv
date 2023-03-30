@@ -1,3 +1,3 @@
 Hi there 👋
--I’m currently working as a JR SOC Analyst.
+-I’m currently working as a SOC Analyst.
  
